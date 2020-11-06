@@ -61,8 +61,8 @@ python main.py --video VIRB0392.mp4 --outH 700 --outW 900 --skip 10
 + Unlucky, GPU processing for Yolo is not supported.
 
 In this project there are 5 folders: 
-+ paintings_db: contains the paintings database.
-+ media: contains videos to be processed. (An example one is given)
++ paintings_db: contains the paintings database. ( Not on GitHub. Download that from: [here] (http://0.0.0.0/) )
++ media: contains videos to be processed. (Needs to be created due to GitHub limitations over file's size)
 + cfg: contains all configuration files needed to perform paint and people detection, paint retrieval and people localization.
 + code: contains all the .py files
 + ffmpeg: contains utility for skvideo.
